@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    background-color: rgb(32, 190, 190);
+}
+#google-drive {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(46, 45, 45);
+    display: flex;
+    justify-content: center;
+}
+#googledrive {
+    color: white; 
+    font-family: 'Staatliches', cursive;
+}
+#sip {
+    color: Limegreen;
+}
+#oops {
+    color: rgb(42, 171, 175);
+}
+#hola {
+    color: rgb(39, 105, 53);
+    display: flex;
+}
+#jiji {
+    color: rgb(112, 44, 44);
+}
+#fin {
+    color: teal;
+}
+#google-drives-text {
+    border: 5px solid rgb(156, 211, 29);
+    display: flex;
+    justify-content: center;
+    width: max-content; 
+    flex-wrap: wrap;
+}
+h1 {
+    border: 3px solid black;
+    width: max-content;
+}
+#google-meet {
+    display: flex;
+    justify-content: center;
+}
+#Gmail {
+    display: flex;
+    justify-content: center;
+    width: 700px;
+}
+#google-drive:hover {
+    background-color: darkgreen;
+}
+#google-docs {
+    list-style: none;
+    display: flex;
+}
+#CUAAAK-entreparentecissignodeexclamacion {
+    width: 545px;
+}
